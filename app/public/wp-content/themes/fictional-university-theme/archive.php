@@ -1,24 +1,13 @@
 <?php 
 
-get_header(); ?>
+get_header();
 
-<div class="page-banner">
-    <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/ocean.jpg') ?>);"></div>
-    <div class="page-banner__content container container--narrow">
-      <!-- Two ways to add dynamic archive categories, author and date headings. One below with more control or with new the_archive_title() function
-      <h1 class="page-banner__title"><?php if(is_category()) { 
-        single_cat_title();
-      } 
-      if (is_author()) {
-        echo "Posts by "; the_author();
-      }
-      ?></h1> -->
-      <h1 class="page-banner__title"> <?php the_archive_title(); ?></h1> <!-- the second way, but with less granular control -->
-      <div class="page-banner__intro">
-        <p><?php the_archive_description(); ?></p>
-      </div>
-    </div>  
-  </div>
+pageBanner(array(
+  'title' => get_the_archive_title(),
+  'subtitle' => get_the_archive_description()
+));
+
+?>
 
   <div class="container container--narrow page-section">
     <?php 

@@ -48,7 +48,7 @@ add_action('wp_enqueue_scripts', 'university_files'); // function call for above
 
 //-----------------------//
 
-// Thisis where we add features to our website, such as menu locations, featured images etc
+// This is where we add features to our website, such as menu locations, featured images etc
 function university_features() {
   register_nav_menu('headerMenuLocation', 'Header Menu Location'); // adds menu options under appearence 
   register_nav_menu('exploreMenuLocation', 'Explore Menu Location');

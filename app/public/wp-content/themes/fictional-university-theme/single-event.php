@@ -3,18 +3,12 @@
   get_header();
 
   while(have_posts()) {
-    the_post(); ?>
+    the_post(); 
     
-    <div class="page-banner">
-      <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/ocean.jpg') ?>);"></div>
-        <div class="page-banner__content container container--narrow">
-          <h1 class="page-banner__title"><?php the_title(); ?></h1>
-          <div class="page-banner__intro">
-        <p>DONT FORGET TO REPLACE ME LATER</p>
-          </div>
-        </div>  
-      </div>
-    </div>
+    pageBanner();
+    
+    ?>
+    
     <div class="container container--narrow page-section">
       
       <div class="metabox metabox--position-up metabox--with-home-link">
@@ -27,15 +21,15 @@
 
       <?php 
 
-      $relatedPrograms = get_field('related_programs');
-      if ($relatedPrograms) {
+      $relatedCourses = get_field('related_courses');
+      if ($relatedCourses) {
 
         echo '<hr class="section-break">';
-        echo '<h2 class="headline headline--medium"> Related Program(s)</h2>';
+        echo '<h2 class="headline headline--medium"> Related Courses(s)</h2>';
         echo '<ul class="link-list min-list">';
         
-        foreach($relatedPrograms as $program) { ?>
-        <li><a href="<?php echo get_the_permalink($program); ?>"><?php echo get_the_title($program); ?></a></li>
+        foreach($relatedCourses as $course) { ?>
+        <li><a href="<?php echo get_the_permalink($course); ?>"><?php echo get_the_title($course); ?></a></li>
         <?php } 
         echo '</ul>';
       }

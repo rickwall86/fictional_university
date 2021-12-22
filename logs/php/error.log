@@ -223,3 +223,609 @@ Stack trace:
 #2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
 #3 {main}
   thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 26
+[19-Dec-2021 13:00:31 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 25
+[19-Dec-2021 13:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:25
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 25
+[19-Dec-2021 13:17:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:26
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
+[19-Dec-2021 13:18:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:26
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
+[19-Dec-2021 13:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:26
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
+[19-Dec-2021 13:19:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:26
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
+[19-Dec-2021 13:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:26
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
+[19-Dec-2021 13:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:30
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 30
+[19-Dec-2021 13:23:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:30
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 30
+[19-Dec-2021 13:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpthe_permalink() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:30
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 30
+[19-Dec-2021 13:25:54 UTC] PHP Parse error:  syntax error, unexpected ':' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 29
+[19-Dec-2021 13:36:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 13:36:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 13:36:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 13:36:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 13:36:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 13:36:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 13:43:40 UTC] PHP Parse error:  syntax error, unexpected 'key' (T_STRING), expecting ')' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 31
+[19-Dec-2021 13:43:41 UTC] PHP Parse error:  syntax error, unexpected 'key' (T_STRING), expecting ')' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 31
+[19-Dec-2021 14:01:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-past-events.php:36
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-past-events.php on line 36
+[19-Dec-2021 14:55:07 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-program.php on line 22
+[19-Dec-2021 15:03:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 15:03:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 15:03:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 15:03:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[19-Dec-2021 15:20:44 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 33
+[19-Dec-2021 15:23:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 32
+[19-Dec-2021 15:30:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 50
+[19-Dec-2021 16:22:35 UTC] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR) in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 29
+[19-Dec-2021 16:48:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 52
+[19-Dec-2021 16:49:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 52
+[19-Dec-2021 16:50:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 52
+[19-Dec-2021 16:51:58 UTC] PHP Parse error:  syntax error, unexpected '.' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 52
+[19-Dec-2021 19:15:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 85
+[19-Dec-2021 19:19:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 86
+[19-Dec-2021 19:37:11 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 44
+[19-Dec-2021 19:38:07 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 44
+[19-Dec-2021 19:43:11 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 50
+[19-Dec-2021 19:44:57 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 50
+[19-Dec-2021 19:45:53 UTC] PHP Parse error:  syntax error, unexpected '$homepageEvents' (T_VARIABLE), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 59
+[19-Dec-2021 19:50:22 UTC] PHP Parse error:  syntax error, unexpected 'get_the_title' (T_STRING), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 47
+[19-Dec-2021 19:54:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 43
+[22-Dec-2021 09:18:16 UTC] PHP Parse error:  syntax error, unexpected 'the_content' (T_STRING) in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-professor.php on line 24
+[22-Dec-2021 09:27:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 58
+[22-Dec-2021 11:41:26 UTC] PHP Parse error:  syntax error, unexpected ''photo'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 10
+[22-Dec-2021 12:00:12 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 12:00:12 UTC] PHP Stack trace:
+[22-Dec-2021 12:00:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:00:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:00:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:00:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:00:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:00:12 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 12:00:12 UTC] PHP Stack trace:
+[22-Dec-2021 12:00:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:00:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:00:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:00:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:00:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:00:12 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 12:00:12 UTC] PHP Stack trace:
+[22-Dec-2021 12:00:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:00:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:00:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:00:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:00:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:00:20 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 12:00:20 UTC] PHP Stack trace:
+[22-Dec-2021 12:00:20 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:00:20 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:00:20 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:00:20 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:00:20 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:00:20 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 12:00:20 UTC] PHP Stack trace:
+[22-Dec-2021 12:00:20 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:00:20 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:00:20 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:00:20 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:00:20 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:00:20 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 12:00:20 UTC] PHP Stack trace:
+[22-Dec-2021 12:00:20 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:00:20 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:00:20 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:00:20 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:00:20 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:01:12 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 12:01:12 UTC] PHP Stack trace:
+[22-Dec-2021 12:01:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:01:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:01:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:01:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:01:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:01:12 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 12:01:12 UTC] PHP Stack trace:
+[22-Dec-2021 12:01:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:01:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:01:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:01:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:01:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:01:12 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 12:01:12 UTC] PHP Stack trace:
+[22-Dec-2021 12:01:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:01:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:01:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:01:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:01:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:01:58 UTC] PHP Parse error:  syntax error, unexpected ''photo'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 10
+[22-Dec-2021 12:02:22 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 12:02:22 UTC] PHP Stack trace:
+[22-Dec-2021 12:02:22 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:02:22 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:02:22 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:02:22 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:02:22 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:02:22 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 12:02:22 UTC] PHP Stack trace:
+[22-Dec-2021 12:02:22 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:02:22 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:02:22 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:02:22 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:02:22 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:02:22 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 12:02:22 UTC] PHP Stack trace:
+[22-Dec-2021 12:02:22 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:02:22 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:02:22 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:02:22 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:02:22 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:03:02 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 12:03:02 UTC] PHP Stack trace:
+[22-Dec-2021 12:03:02 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:03:02 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:03:02 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:03:02 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:03:02 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:03:02 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 12:03:02 UTC] PHP Stack trace:
+[22-Dec-2021 12:03:02 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:03:02 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:03:02 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:03:02 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:03:02 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:03:02 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 12:03:02 UTC] PHP Stack trace:
+[22-Dec-2021 12:03:02 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:03:02 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:03:02 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:03:02 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:03:02 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:05:15 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 12:05:15 UTC] PHP Stack trace:
+[22-Dec-2021 12:05:15 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:05:15 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:05:15 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:05:15 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:05:15 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:05:15 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 12:05:15 UTC] PHP Stack trace:
+[22-Dec-2021 12:05:15 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:05:15 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:05:15 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:05:15 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:05:15 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:05:15 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 12:05:15 UTC] PHP Stack trace:
+[22-Dec-2021 12:05:15 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:05:15 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:05:15 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:05:15 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:05:15 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:06:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 35
+[22-Dec-2021 12:06:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 35
+[22-Dec-2021 12:06:58 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 12:06:58 UTC] PHP Stack trace:
+[22-Dec-2021 12:06:58 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:06:58 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:06:58 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:06:58 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:06:58 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:06:58 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 12:06:58 UTC] PHP Stack trace:
+[22-Dec-2021 12:06:58 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:06:58 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:06:58 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:06:58 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:06:58 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:06:58 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 12:06:58 UTC] PHP Stack trace:
+[22-Dec-2021 12:06:58 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:06:58 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:06:58 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:06:58 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:06:58 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:07:16 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 12:07:16 UTC] PHP Stack trace:
+[22-Dec-2021 12:07:16 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:07:16 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:07:16 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:07:16 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:07:16 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:07:16 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 12:07:16 UTC] PHP Stack trace:
+[22-Dec-2021 12:07:16 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:07:16 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:07:16 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:07:16 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:07:16 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 12:07:16 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 12:07:16 UTC] PHP Stack trace:
+[22-Dec-2021 12:07:16 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 12:07:16 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 12:07:16 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 12:07:16 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 12:07:16 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:52:06 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 13:52:06 UTC] PHP Stack trace:
+[22-Dec-2021 13:52:06 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:52:06 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:52:06 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:52:06 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:52:06 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:52:06 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 13:52:06 UTC] PHP Stack trace:
+[22-Dec-2021 13:52:06 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:52:06 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:52:06 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:52:06 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:52:06 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:52:06 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 13:52:06 UTC] PHP Stack trace:
+[22-Dec-2021 13:52:06 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:52:06 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:52:06 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:52:06 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:52:06 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:52:51 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 13:52:51 UTC] PHP Stack trace:
+[22-Dec-2021 13:52:51 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:52:51 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:52:51 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:52:51 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:52:51 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:52:51 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 13:52:51 UTC] PHP Stack trace:
+[22-Dec-2021 13:52:51 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:52:51 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:52:51 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:52:51 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:52:51 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:52:51 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 29
+[22-Dec-2021 13:52:51 UTC] PHP Stack trace:
+[22-Dec-2021 13:52:51 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:52:51 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:52:51 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:52:51 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:52:51 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:54:09 UTC] PHP Warning:  Use of undefined constant photo - assumed 'photo' (this will throw an Error in a future version of PHP) in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 13:54:09 UTC] PHP Stack trace:
+[22-Dec-2021 13:54:09 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:54:09 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:54:09 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:54:09 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:54:09 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:54:09 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 13:54:09 UTC] PHP Stack trace:
+[22-Dec-2021 13:54:09 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:54:09 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:54:09 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:54:09 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:54:09 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:54:09 UTC] PHP Warning:  Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP) in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 13:54:09 UTC] PHP Stack trace:
+[22-Dec-2021 13:54:09 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:54:09 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:54:09 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:54:09 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:54:09 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:54:09 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 13:54:09 UTC] PHP Stack trace:
+[22-Dec-2021 13:54:09 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:54:09 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:54:09 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:54:09 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:54:09 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:54:09 UTC] PHP Warning:  Use of undefined constant subtitle - assumed 'subtitle' (this will throw an Error in a future version of PHP) in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 13:54:09 UTC] PHP Stack trace:
+[22-Dec-2021 13:54:09 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:54:09 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:54:09 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:54:09 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:54:09 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:54:09 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 13:54:09 UTC] PHP Stack trace:
+[22-Dec-2021 13:54:09 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:54:09 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:54:09 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:54:09 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:54:09 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:13 UTC] PHP Warning:  Use of undefined constant photo - assumed 'photo' (this will throw an Error in a future version of PHP) in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 13:58:13 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:13 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:13 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:13 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:13 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:13 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:13 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 13:58:13 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:13 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:13 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:13 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:13 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:13 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:13 UTC] PHP Warning:  Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP) in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 13:58:13 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:13 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:13 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:13 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:13 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:13 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:13 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 13:58:13 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:13 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:13 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:13 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:13 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:13 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:13 UTC] PHP Warning:  Use of undefined constant subtitle - assumed 'subtitle' (this will throw an Error in a future version of PHP) in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 13:58:13 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:13 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:13 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:13 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:13 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:13 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:13 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 13:58:13 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:13 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:13 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:13 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:13 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:13 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:55 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 13:58:55 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:55 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:55 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:55 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:55 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:55 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:55 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 13:58:55 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:55 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:55 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:55 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:55 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:55 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 13:58:55 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 13:58:55 UTC] PHP Stack trace:
+[22-Dec-2021 13:58:55 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 13:58:55 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 13:58:55 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 13:58:55 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 13:58:55 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:12 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 14:01:12 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:12 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 14:01:12 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:12 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 14:01:12 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:18 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 14:01:18 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:18 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:18 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:18 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:18 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:18 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:18 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 14:01:18 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:18 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:18 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:18 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:18 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:18 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:18 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 14:01:18 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:18 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:18 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:18 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:18 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:18 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:57 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 14:01:57 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:57 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:57 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:57 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:57 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:57 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:57 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 14:01:57 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:57 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:57 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:57 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:57 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:57 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:01:57 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 14:01:57 UTC] PHP Stack trace:
+[22-Dec-2021 14:01:57 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:01:57 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:01:57 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:01:57 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:01:57 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[22-Dec-2021 14:03:31 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 14:03:31 UTC] PHP Stack trace:
+[22-Dec-2021 14:03:31 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:03:31 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:03:31 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:03:31 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:03:31 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:03:31 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 14:03:31 UTC] PHP Stack trace:
+[22-Dec-2021 14:03:31 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:03:31 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:03:31 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:03:31 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:03:31 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:03:31 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 14:03:31 UTC] PHP Stack trace:
+[22-Dec-2021 14:03:31 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:03:31 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:03:31 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:03:31 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:03:31 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:07:48 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 14:07:48 UTC] PHP Stack trace:
+[22-Dec-2021 14:07:48 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:07:48 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:07:48 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:07:48 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:07:48 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:07:48 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 14:07:48 UTC] PHP Stack trace:
+[22-Dec-2021 14:07:48 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:07:48 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:07:48 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:07:48 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:07:48 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:07:48 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 14:07:48 UTC] PHP Stack trace:
+[22-Dec-2021 14:07:48 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:07:48 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:07:48 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:07:48 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:07:48 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:07:53 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 14:07:53 UTC] PHP Stack trace:
+[22-Dec-2021 14:07:53 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:07:53 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:07:53 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:07:53 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:07:53 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:07:53 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 14:07:53 UTC] PHP Stack trace:
+[22-Dec-2021 14:07:53 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:07:53 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:07:53 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:07:53 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:07:53 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:07:53 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 14:07:53 UTC] PHP Stack trace:
+[22-Dec-2021 14:07:53 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:07:53 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:07:53 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:07:53 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:07:53 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:10:49 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 14:10:49 UTC] PHP Stack trace:
+[22-Dec-2021 14:10:49 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:10:49 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:10:49 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:10:49 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:10:49 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:10:49 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 14:10:49 UTC] PHP Stack trace:
+[22-Dec-2021 14:10:49 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:10:49 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:10:49 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:10:49 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:10:49 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:10:49 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 14:10:49 UTC] PHP Stack trace:
+[22-Dec-2021 14:10:49 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:10:49 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:10:49 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:10:49 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:10:49 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:11:12 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Dec-2021 14:11:12 UTC] PHP Stack trace:
+[22-Dec-2021 14:11:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:11:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:11:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:11:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:11:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:11:12 UTC] PHP Warning:  Illegal string offset 'title' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Dec-2021 14:11:12 UTC] PHP Stack trace:
+[22-Dec-2021 14:11:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:11:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:11:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:11:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:11:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 14:11:12 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 27
+[22-Dec-2021 14:11:12 UTC] PHP Stack trace:
+[22-Dec-2021 14:11:12 UTC] PHP   1. {main}() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:0
+[22-Dec-2021 14:11:12 UTC] PHP   2. require() /Users/rickywallace/Local Sites/fictional-university/app/public/index.php:17
+[22-Dec-2021 14:11:12 UTC] PHP   3. require_once() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[22-Dec-2021 14:11:12 UTC] PHP   4. include() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[22-Dec-2021 14:11:12 UTC] PHP   5. pageBanner() /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:7
+[22-Dec-2021 16:34:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function page_banner() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php:8
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 8
+[22-Dec-2021 16:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function page_banner() in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php:8
+Stack trace:
+#0 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/rickywallace/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/rickywal...')
+#2 /Users/rickywallace/Local Sites/fictional-university/app/public/index.php(17): require('/Users/rickywal...')
+#3 {main}
+  thrown in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 8
+[22-Dec-2021 17:49:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/rickywallace/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 6
